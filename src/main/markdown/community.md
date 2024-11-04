@@ -17,11 +17,6 @@ We've established a set of discussion groups/mailing lists to help you find answ
 *   **GWT Steering** - This is the place where the GWT Steering Committee talks in the open about the future of the project (roadmap, communication, etc.) and bureaucratic stuff. Your feedback is (more than) welcome, so do not hesitate to send it to the GWT Contributors group. 
     *   Go to the group: [gwt-steering](http://groups.google.com/group/gwt-steering)
     *   Subscribe via email: [gwt-steering-subscribe@googlegroups.com](mailto:gwt-steering-subscribe@googlegroups.com)
-*   **Speed Tracer** - If you are interested in hearing about new features, or in contributing to Speed Tracer.
-    *   Go to the group: [speedtracer](https://groups.google.com/group/speedtracer)
-    *   Visit the [codesite project](http://code.google.com/p/speedtracer).
-*   **CodePro AnalytiX, GWT Designer, WindowBuilder Pro, and WindowTester Pro discussions** - If you're looking for Q&amp;A as well as general conversation regarding any of these tools, this is the site for you.
-    *   Product forums: [http://forums.instantiations.com](http://forums.instantiations.com)
 
 ### Before posting
 
@@ -34,7 +29,7 @@ Before submitting your post, please try the following:
 
 ## Other communities
 
-There is a [GWT Gitter Community](https://gitter.im/gwtproject/gwt). There's also the unofficial IRC channel ##gwt on the [Freenode network](https://freenode.net/).
+There is a [GWT Gitter Community](https://gitter.im/gwtproject/gwt). On of the best places to get in touch with the devs of GWT. There's also the unofficial IRC channel ##gwt on the [Freenode network](https://freenode.net/).
 
 ## Contribute
 
